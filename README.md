@@ -24,7 +24,6 @@ The client has requested a landing page that is optimized for search engines and
 * Reworked HTML sections 
 * Removed unnecessary CSS classes
 * Re-ordered CSS to follow HTML structure
-* Added alt attributes to images
 
 ### Website Link
 https://github.com/EdwardBecerra2/Horiseon-Accessibility-Standard-Refactor

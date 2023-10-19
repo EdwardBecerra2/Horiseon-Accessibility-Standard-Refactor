@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* added nav*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,7 +21,7 @@ body {
     font-size: 48px;
 }
 
-.header h1 span {
+.header h1 .seo {
     color: #d9dcd6;
 }
 
@@ -59,6 +60,7 @@ p {
     background-position: center;
 }
 
+/* combined divs by replacing them into section tag*/
 .content {
     width: 75%;
     display: inline-block;
@@ -93,6 +95,7 @@ p {
     margin-left: 25px;
 }
 
+/* combined divs by replacing them into section tag*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
