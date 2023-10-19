@@ -19,14 +19,12 @@ The client has requested a landing page that is optimized for search engines and
 
 ### Work Completed
 
-* Added and optimized the website title
-* Fixed broken internal links
-* Refactored HTML to make use of semantic elements
+* Added the website title
+* Fixed broken links
+* Reworked HTML sections 
 * Removed unnecessary CSS classes
-* Consolidated redundant CSS selectors and properties
 * Re-ordered CSS to follow HTML structure
 * Added alt attributes to images
-* Applied the DRY principle to improve the codebase for long-term sustainability
 
 ### Website Link
 https://github.com/EdwardBecerra2/Horiseon-Accessibility-Standard-Refactor
