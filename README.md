@@ -25,6 +25,9 @@ The client has requested a landing page that is optimized for search engines and
 * Removed unnecessary CSS classes
 * Re-ordered CSS to follow HTML structure
 
+### Screenshot
+![Alt text](<assets/images/Screenshot 2023-10-19 at 12.53.29 PM (2).png>)
+
 ### Website Link
 https://github.com/EdwardBecerra2/Horiseon-Accessibility-Standard-Refactor
 
